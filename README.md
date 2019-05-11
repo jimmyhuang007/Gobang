@@ -9,7 +9,8 @@
 - Game console command contains start, help, end
 - Ingame console command contains gg, help, restart, blackw, whitew
 
-To start the game, run the program and follow the command UI by typing start
+To start the game, run the program and follow the command UI by typing 'start'
 
 Screenshot of the Game
+
 ![alt tag](https://github.com/jimmyhuang007/Gobang/blob/master/Screenshot.PNG) 
